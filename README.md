@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Dharshan Hariharan</h1>
+<h1 align="center">👋 Hi, I'm KISHORE G/h1>
 <h3 align="center">🚀 Full Stack Developer | Machine Learning </h3>
 
 <p align="center">
